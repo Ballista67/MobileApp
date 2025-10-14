@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "824192608993",
+    "firebase_url": "https://ballista-670e7-default-rtdb.firebaseio.com",
+    "project_id": "ballista-670e7",
+    "storage_bucket": "ballista-670e7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824192608993:android:b3f5cbf605f087a813a5a0",
+        "android_client_info": {
+          "package_name": "com.ballista.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824192608993-vi9bicl7vu7flrpmgcp1q6r6m0pv366f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzpQ983dsyGhJ-7zKeylWkQvyK5fzECL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824192608993-vi9bicl7vu7flrpmgcp1q6r6m0pv366f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "824192608993-v3lrkvoclf1a2ekp37ccnkrmcsb9483q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ballista.mobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
